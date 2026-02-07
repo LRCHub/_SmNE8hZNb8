@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "揺れるカーテン",
+  "base_artist": "生活は忘れて",
+  "createdAt": "2026-02-07T09:00:05.196099Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "揺れるカーテン",
+      "artist": "生活は忘れて",
+      "has_synced": false,
+      "path": "select/pl_01_揺れるカーテン_生活は忘れて.txt"
+    }
+  ]
+}
